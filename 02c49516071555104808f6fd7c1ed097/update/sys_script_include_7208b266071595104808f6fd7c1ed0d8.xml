@@ -12,20 +12,20 @@ feature2_puneet2_si_scoped.prototype = Object.extendsObject(global.AbstractAjaxP
 
     type: 'feature2_puneet2_si_scoped',
 	feature2_func1: function(){
-		gs.info("func1_feature2");
+		gs.info("func1_feature2 branch2 branch 2");
 	}
 });]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>puneet2</sys_created_by>
         <sys_created_on>2022-08-17 03:02:25</sys_created_on>
         <sys_id>7208b266071595104808f6fd7c1ed0d8</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>feature2_puneet2_si_scoped</sys_name>
         <sys_package display_value="check3" source="x_750441_check3">02c49516071555104808f6fd7c1ed097</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="check3">02c49516071555104808f6fd7c1ed097</sys_scope>
         <sys_update_name>sys_script_include_7208b266071595104808f6fd7c1ed0d8</sys_update_name>
         <sys_updated_by>puneet2</sys_updated_by>
-        <sys_updated_on>2022-08-17 03:02:25</sys_updated_on>
+        <sys_updated_on>2022-08-17 04:50:14</sys_updated_on>
     </sys_script_include>
 </record_update>
